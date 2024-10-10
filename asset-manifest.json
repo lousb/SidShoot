@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/sidney.esoteric.gallery/static/css/main.88179799.css",
-    "main.js": "/sidney.esoteric.gallery/static/js/main.b7dd0b6e.js",
-    "static/media/2.jpeg": "/sidney.esoteric.gallery/static/media/2.253972d8c2e2c02dc820.jpeg",
-    "static/media/6.jpeg": "/sidney.esoteric.gallery/static/media/6.937e1052f291eb622994.jpeg",
-    "static/media/4.jpeg": "/sidney.esoteric.gallery/static/media/4.cc45b0e76e2bf987a526.jpeg",
-    "static/media/5.jpeg": "/sidney.esoteric.gallery/static/media/5.495fb2eaa72b36e33d85.jpeg",
-    "static/media/9.jpeg": "/sidney.esoteric.gallery/static/media/9.3c18a3b45f5a7279975c.jpeg",
-    "static/media/7.jpeg": "/sidney.esoteric.gallery/static/media/7.d35581c79c66b451050d.jpeg",
-    "static/media/16.jpeg": "/sidney.esoteric.gallery/static/media/16.38f1e289432cc9e942c7.jpeg",
-    "static/media/13.jpeg": "/sidney.esoteric.gallery/static/media/13.c58b53abe18975ed39f2.jpeg",
-    "static/media/3.jpeg": "/sidney.esoteric.gallery/static/media/3.bdeb884917a31279a861.jpeg",
-    "static/media/14.jpeg": "/sidney.esoteric.gallery/static/media/14.2e728f2387675bedfb70.jpeg",
-    "static/media/10.jpeg": "/sidney.esoteric.gallery/static/media/10.980caee51c2abd485f7e.jpeg",
-    "static/media/15.jpeg": "/sidney.esoteric.gallery/static/media/15.f25906455b572ebf9dd8.jpeg",
-    "static/media/1.jpeg": "/sidney.esoteric.gallery/static/media/1.1e647de7c94fe4f3960e.jpeg",
-    "static/media/12.jpeg": "/sidney.esoteric.gallery/static/media/12.8b59806d4423d5db88e5.jpeg",
-    "static/media/8.jpeg": "/sidney.esoteric.gallery/static/media/8.49044f931f79432131f0.jpeg",
-    "static/media/11.jpeg": "/sidney.esoteric.gallery/static/media/11.56c664d69ba8250eecf5.jpeg",
-    "index.html": "/sidney.esoteric.gallery/index.html",
-    "main.88179799.css.map": "/sidney.esoteric.gallery/static/css/main.88179799.css.map",
-    "main.b7dd0b6e.js.map": "/sidney.esoteric.gallery/static/js/main.b7dd0b6e.js.map"
+    "main.css": "/static/css/main.88179799.css",
+    "main.js": "/static/js/main.9b2c7960.js",
+    "static/media/2.jpeg": "/static/media/2.253972d8c2e2c02dc820.jpeg",
+    "static/media/6.jpeg": "/static/media/6.937e1052f291eb622994.jpeg",
+    "static/media/4.jpeg": "/static/media/4.cc45b0e76e2bf987a526.jpeg",
+    "static/media/5.jpeg": "/static/media/5.495fb2eaa72b36e33d85.jpeg",
+    "static/media/9.jpeg": "/static/media/9.3c18a3b45f5a7279975c.jpeg",
+    "static/media/7.jpeg": "/static/media/7.d35581c79c66b451050d.jpeg",
+    "static/media/16.jpeg": "/static/media/16.38f1e289432cc9e942c7.jpeg",
+    "static/media/13.jpeg": "/static/media/13.c58b53abe18975ed39f2.jpeg",
+    "static/media/3.jpeg": "/static/media/3.bdeb884917a31279a861.jpeg",
+    "static/media/14.jpeg": "/static/media/14.2e728f2387675bedfb70.jpeg",
+    "static/media/10.jpeg": "/static/media/10.980caee51c2abd485f7e.jpeg",
+    "static/media/15.jpeg": "/static/media/15.f25906455b572ebf9dd8.jpeg",
+    "static/media/1.jpeg": "/static/media/1.1e647de7c94fe4f3960e.jpeg",
+    "static/media/12.jpeg": "/static/media/12.8b59806d4423d5db88e5.jpeg",
+    "static/media/8.jpeg": "/static/media/8.49044f931f79432131f0.jpeg",
+    "static/media/11.jpeg": "/static/media/11.56c664d69ba8250eecf5.jpeg",
+    "index.html": "/index.html",
+    "main.88179799.css.map": "/static/css/main.88179799.css.map",
+    "main.9b2c7960.js.map": "/static/js/main.9b2c7960.js.map"
   },
   "entrypoints": [
     "static/css/main.88179799.css",
-    "static/js/main.b7dd0b6e.js"
+    "static/js/main.9b2c7960.js"
   ]
 }
