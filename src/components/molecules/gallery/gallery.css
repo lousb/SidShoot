@@ -2,9 +2,8 @@
 .gallery-grid {
     display: grid;
     grid-gap: 20px;
-    width: 92%;
+    row-gap: 6em;
     margin: auto;
-    margin-inline: 4%;
   }
   
   /* 1 column for mobile (less than 768px) */
@@ -31,11 +30,15 @@
   /* Styling individual items in the gallery */
   .gallery-item {
     overflow: hidden;
-    padding-bottom: 2em;
+    padding-bottom: 4em;
     transition: transform 0.3s ease;
     position: relative;
+  }
+  .gallery-item:has(.parallax-index){
+    padding-bottom: 4em;
   }
   .gallery-item .parallax-index{
     position: absolute;
     bottom:0;
+    
   }

@@ -9,7 +9,7 @@ export const reveal = {
     open: (i) => ({
       y: '0%',
       opacity: 1,
-      transition: { ...transition, delay: i * 0.015 }, // Fix the delay calculation
+      transition: { ...transition, delay: i * 0.010 }, // Fix the delay calculation
     }),
     closed: (i) => ({
       y: '150%',

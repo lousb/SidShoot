@@ -4,11 +4,14 @@
   --secondary-color: #ffffff;
   --third-color: #d2d2d2;
 
-  --font-family: 'Satoshi', sans-serif;
+  --font-family: 'Inter', sans-serif;
 
   --font-size-heading: 64px;
   --font-size-base: 16px;
   --font-size-heading-mobile: 56px;
+}
+h1{
+  letter-spacing: -0.1em;
 }
 
 .grid-overlay{
